@@ -19,3 +19,5 @@ It is trained to recognize normal eyes and eyes with cataracts. It does this by 
 7. If the output box gives an error, use another image instead because the website doesn't allow the image to be downloaded.
 
 [View a video explanation here](video link)
+
+Upload to google drive and make it public(my images and video).
