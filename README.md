@@ -1,7 +1,8 @@
 # Cataract vs Normal Eye Model
 
 It tells the user if a given eye image has cataract. It starts checking the image when the image is uploaded onto its user interface and the code is activated.
-![add image description here](direct image link here)
+
+[A Eurasian tree sparrow.](https://www.allaboutbirds.org/guide/assets/og/75352031-1200px.jpg)
 
 ## The Algorithm
 
