@@ -2,7 +2,9 @@
 
 It tells the user if a given eye image has cataract. It starts checking the image when the image is uploaded onto its user interface and the code is activated.
 
-[A Eurasian tree sparrow.](https://www.allaboutbirds.org/guide/assets/og/75352031-1200px.jpg)
+[A normal eye.](https://cdn.britannica.com/79/150179-120-3A8438B1/human-eye.jpg)
+[An eye with cataracts.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dense_white_mature_cataract.jpg/200px-Dense_white_mature_cataract.jpg)
+
 
 ## The Algorithm
 
@@ -18,6 +20,4 @@ It is trained to recognize normal eyes and eyes with cataracts. It does this by 
 6. Click classify on the interface.
 7. If the output box gives an error, use another image instead because the website doesn't allow the image to be downloaded.
 
-[View a video explanation here](video link)
-
-Upload to google drive and make it public(my images and video).
+[Video about the project.](https://drive.google.com/file/d/1WkQjOooDcOGRjuq5r4HivJh0zdXdKA8s/view?usp=drive_link)
